@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ni&apos; to &apos;com.main&apos;&#x0D;&#x0A;- Original project: &apos;ni&apos;&#x0D;&#x0A;- Original element: &apos;ni/src/main/java/com.ni&apos;&#x0D;&#x0A;- Renamed element: &apos;ni/src/main/java/com.main&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ni&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.ni" name="com.main" qualified="false" references="true" stamp="1576572168840" textual="false" version="1.0"/>
+</session>
