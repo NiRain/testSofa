@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre" version="1.8.0_101">
+<bootpath>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\resources.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\rt.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\sunrsasign.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\jsse.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\jce.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\charsets.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\jfr.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre" version="1.8.0_101">
+<bootpath>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\resources.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\rt.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\sunrsasign.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\jsse.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\jce.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\charsets.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\jfr.jar"/>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Spring\pcbs-dev\csii\sts\sts-3.8.4.RELEASE\jre\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="com.alipay.sofa.rpc.config.ServerConfig"/>
+<fullyQualifiedTypeName name="com.alipay.sofa.rpc.config.ProviderConfig"/>
+<fullyQualifiedTypeName name="com.alipay.sofa.rpc.config.ConsumerConfig"/>
+</qualifiedTypeNameHistroy>
